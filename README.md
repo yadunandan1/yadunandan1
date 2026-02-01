@@ -1,7 +1,8 @@
 <!-- MATRIX ANIMATED BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/zJi5M0p.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/yadunandan1/yadunandan1/main/14b2c303b27bb22107c01c67e4f7f1df.gif" width="100%" />
 </p>
+
 
 <!-- Waving Hand With Typing Animation -->
 <h2 align="center">
