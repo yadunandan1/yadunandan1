@@ -51,7 +51,6 @@ I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundatio
 ---
 
 # 🛠️ Tech Stack  
-<h2 align="center">🛠️ Tech Stack</h2>
 
 <h3>🚀 Frontend</h3>
 <p>
@@ -135,14 +134,6 @@ I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundatio
 
 ---
 
-# 🎯 Top Languages  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yadunandan1&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
-
 # 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/yadunandan1/yadunandan1/output/snake.svg" />
@@ -150,10 +141,6 @@ I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundatio
 
 ---
 
-# 💹 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-green-animate.svg" width="800px"/>
-</p>
 
 ---
 
@@ -161,19 +148,6 @@ I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundatio
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadunandan1&theme=tokyonight" />
 </p>
-
----
-
-# ⏳ Wakatime Coding Stats  
-<h2 align="center">⏳ Wakatime Coding Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=ady12&theme=tokyonight&layout=compact"/>
-</p>
-
-
-
-
 
 ---
 
