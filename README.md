@@ -127,9 +127,10 @@ I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundatio
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadunandan1&show_icons=true&theme=tokyonight&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yadunandan1&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=yadunandan1&theme=tokyonight"/>
 </p>
+
 
 
 ---
