@@ -147,8 +147,9 @@
 <h2 align="center">⏳ Wakatime Coding Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=ec53a6cd-82af-4ba3-b5e4-8c492f7df073&theme=tokyonight&layout=compact"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=ady12&theme=tokyonight&layout=compact"/>
 </p>
+
 
 
 
