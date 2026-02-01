@@ -1,6 +1,6 @@
 <!-- MATRIX ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadunandan1/yadunandan1/main/14b2c303b27bb22107c01c67e4f7f1df.gif" width="200%" height="50%" />
+  <img src="https://raw.githubusercontent.com/yadunandan1/yadunandan1/main/14b2c303b27bb22107c01c67e4f7f1df.gif" style="width:100%; height:auto; />
 </p>
 
 
