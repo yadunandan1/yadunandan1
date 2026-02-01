@@ -9,7 +9,7 @@
 <!-- Waving Hand With Typing Animation -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=16F7F5&center=true&vCenter=true&width=600&lines=I'm+Adarsh+Yadav;Frontend+Developer;BCA+Student;SIH+2k25+Winner+🏆;AI+%26+Tech+Explorer;Welcome+To+My+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=16F7F5&center=true&vCenter=true&width=600&lines=I'm+Adarsh+Yadav;Full-Stack+Developer;BCA+Student;SIH+2k25+Winner+🏆;AI+%26+Tech+Explorer;Welcome+To+My+Profile!">
 </h2>
 
 <!-- Profile Views -->
@@ -58,16 +58,18 @@
 
 # 📊 GitHub Stats  
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadunandan1&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yadunandan1&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yadunandan1&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=yadunandan1&theme=tokyonight" height="180em"/>
 </p>
+
 
 ---
 
 # 🎯 Top Languages  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadunandan1&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yadunandan1&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
