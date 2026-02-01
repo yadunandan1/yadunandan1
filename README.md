@@ -19,13 +19,34 @@
 
 ---
 
-# 👨‍💻 About Me  
-- 🎓 BCA Student  
-- 🏆 SIH 2k25 Winner  
-- 💻 Fullstack Developer  
-- 🔥 Open Source Lover  
-- 🤖 AI Learner & Tech Explorer  
-- 🌍 India  
+## 🚀 About Me
+
+I'm **Adarsh Yadav**, a dedicated **Full-Stack Developer** with strong foundations in  
+**JavaScript, Node.js, React, Next.js, MongoDB, and AI automation tools.**
+
+### 💡 What I Do
+- Build scalable **full-stack applications**
+- Create modern **UI/UX with React & Tailwind**
+- Design **REST APIs, authentication & cloud deployments**
+- Develop **AI automations** using LangChain, RAG, Vector DBs
+- Optimize systems for **speed, performance & security**
+
+### 🧠 Current Focus
+- Advanced AI workflows (RAG, embeddings, LLMs)
+- Production-ready Next.js apps  
+- DevOps basics: CI/CD, monitoring, hosting  
+- High-quality open-source contributions
+
+### 🤝 Looking to Collaborate On
+- AI Agents & Automation  
+- SaaS Products  
+- Innovative Full-Stack Projects  
+
+### 📨 Connect With Me
+- Email: **adarshy85852@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/adarsh-yadav-a504ab372/**  
+- Portfolio: **https://yadunandanportfolio.vercel.app/**
+
 
 ---
 
