@@ -48,8 +48,9 @@
 
 # 🏆 GitHub Trophy  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadunandan1&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/yadunandan1/yadunandan1/main/shutterstock_1941641128.jpg" width="100%" alt="Trophy Image" />
 </p>
+
 
 ---
 
