@@ -19,7 +19,7 @@
 # 👨‍💻 About Me  
 - 🎓 BCA Student  
 - 🏆 SIH 2k25 Winner  
-- 💻 Frontend Developer  
+- 💻 Fullstack Developer  
 - 🔥 Open Source Lover  
 - 🤖 AI Learner & Tech Explorer  
 - 🌍 India  
